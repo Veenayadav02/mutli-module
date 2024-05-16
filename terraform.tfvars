@@ -1,0 +1,6 @@
+cidr_block_value = "10.0.0.0/16"
+pub_sub_cidr_value= "10.0.24.0/24"
+availability_zone_value= "ap-south-1a"
+ami_id_value= "ami-0f58b397bc5c1f2e8"
+key_pair_value= "server"
+instance_type = "t2.micro"
